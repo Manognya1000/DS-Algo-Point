@@ -69,6 +69,8 @@ Format: -[Program name](name of the file)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
+-[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
+
 -[Selection Sort](selectionsort.py)
 
 -[Shell Sort](shell_sort.py)
