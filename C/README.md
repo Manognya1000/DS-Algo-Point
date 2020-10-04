@@ -36,6 +36,8 @@ Format:
 
 -[Quick Sort](Quick_Sort.c)
 
+-[Quick Sort on Doubly Linked List](quick sort in doubly linked list.c)
+
 -[Reverse a linked list](reverse.c)
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
